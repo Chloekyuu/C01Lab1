@@ -6,7 +6,7 @@
 ### Installation and **Prerequisites**
 
 ```bash
-git clone <https://github.com/your-username/your-react-native-todo-app.git>
+git clone <https://github.com/Chloekyuu/C01Lab1.git>
 ```
 
 If you don’t have `node.js` or `npm` on your computer, you can download it via:
